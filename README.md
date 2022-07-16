@@ -1,5 +1,6 @@
-# Convolution Accelerator Peripheral
-
+# Convolution Accelerator Peripheral  
+EE2003 Computer Organization July-Nov 2021  
+Authors: Jayakar Reddy, Nihal John George, Abhigyan Chattopadhyay -- EE19B {028, 131, 146}
 
 *Note*: This is a forked repository of PicoRV32 - the original README is available at [[README_picorv32.md]].
 
